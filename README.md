@@ -9,7 +9,7 @@ identification of σ70 promoter sequences. Our proposed method is based on a fea
 sequence of nucleotides are divided into subsets and each subset is given to individual single classifiers to learn. Based on the decisions of the ensemble an aggregate
 decision is made by the ensemble voting classifier. We tested our method on a standard benchmark dataset extracted from experimentally validated results.
 Experimental results shows that iPromoter-FSEn significantly improves over the state-of-the art σ70 promoter sequence predictors. The accuracy and area under
-receiver operating characteristic curve of iPromoter-FSEn are 86.32% and 0.9319 respectively. We have also made our method readily available for use as an [web application](http://ipromoterfsen.pythonanywhere.com/server).
+receiver operating characteristic curve of iPromoter-FSEn are 86.32% and 0.9319 respectively. We have also made our method readily available for use as a [web application](http://ipromoterfsen.pythonanywhere.com/server).
 
 #### Original Paper: [by clicking here!](https://www.sciencedirect.com/science/article/pii/S0888754318302593)
 #### Download PDF: [by clicking here!](http://rafsanjani.pythonanywhere.com/static/Papers/iPromoter-FSEn.pdf)
