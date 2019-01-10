@@ -1,6 +1,6 @@
 # iPromoter-FSEn: Identification of Bacterial sigma70 Promoter Sequences Using Feature Subspace Based Ensemble Classifier
 
-#### Authors: MS Rahman, U Aktar, Rafsanjani Muhammod, and Dr. Swakkhar Shatabda
+#### Authors: Siddiqur Rahman, Usma Aktar, Rafsanjani Muhammod, and Dr. Swakkhar Shatabda
 
 ### Abstract
 Sigma promoter sequences in bacterial genomes are important due to their role in transcription initiation. Sigma 70 is one of the most important and crucial sigma
