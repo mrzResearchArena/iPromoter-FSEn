@@ -12,5 +12,5 @@ Experimental results shows that iPromoter-FSEn significantly improves over the s
 receiver operating characteristic curve of iPromoter-FSEn are 86.32% and 0.9319 respectively. We have also made our method readily available for use as a [web application](http://ipromoterfsen.pythonanywhere.com/server).
 
 #### Original Paper: [by clicking here!](https://www.sciencedirect.com/science/article/pii/S0888754318302593)
-#### Download PDF: [by clicking here!](http://rafsanjani.pythonanywhere.com/static/Papers/iPromoter-FSEn.pdf)
+#### Download as PDF: [by clicking here!](http://rafsanjani.pythonanywhere.com/static/Papers/iPromoter-FSEn.pdf)
 
